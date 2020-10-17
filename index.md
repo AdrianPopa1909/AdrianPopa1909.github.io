@@ -1,6 +1,10 @@
 // <div style="text-align:center"><img src="catroomguardian.JPG" /></div>
-<a href="http://google.com/" rel="some text">![Foo](catroomguardian.JPG)</a>
-    
+
+   
+   Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+<a href="http://google.com/" rel="some text">![Foo](catroomguardian.JPG)</a>  | <a href="http://google.com/" rel="some text">![Foo](catroomguardian.JPG)</a>
+
 ## welcome
 
 You can use the [editor on GitHub](https://github.com/AdrianPopa1909/AdrianPopa1909.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
