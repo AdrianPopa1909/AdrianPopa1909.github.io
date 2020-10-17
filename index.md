@@ -1,5 +1,5 @@
-<div style="text-align:center"><img src="579038_252340704942690_1104975101_n.jpg" /></div>
-![Image](579038_252340704942690_1104975101_n.jpg)
+<div style="text-align:center"><img src="catroomguardian.JPG" /></div>
+
 
 ## welcome
 
@@ -42,7 +42,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](catroomguardian.JPG)
+[Link](url) and ![Image](579038_252340704942690_1104975101_n.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
