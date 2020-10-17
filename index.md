@@ -1,7 +1,5 @@
-<div style="text-align:center"><img src="catroomguardian.JPG" /></div>
-<a href="google.com/" rel="some text">![Image](catroomguardian.JPG)</a>
+// <div style="text-align:center"><img src="catroomguardian.JPG" /></div>
 <a href="http://google.com/" rel="some text">![Foo](catroomguardian.JPG)</a>
-[![foo](catroomguardian.JPG)](https://www.google.com)
     
 ## welcome
 
