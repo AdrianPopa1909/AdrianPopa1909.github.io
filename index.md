@@ -25,8 +25,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-markdown
 Syntax highlighted code block
 
 # Header 1
