@@ -1,6 +1,8 @@
 <div style="text-align:center"><img src="catroomguardian.JPG" /></div>
 <a href="google.com/" rel="some text">![Image](catroomguardian.JPG)</a>
 
+[![foo](catroomguardian.JPG)](www.google.com)
+    
 ## welcome
 
 You can use the [editor on GitHub](https://github.com/AdrianPopa1909/AdrianPopa1909.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
