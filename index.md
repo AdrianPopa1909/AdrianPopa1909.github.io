@@ -1,8 +1,5 @@
 // <div style="text-align:center"><img src="catroomguardian.JPG" /></div>
 
-   
-   Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
 <a href="http://google.com/" rel="some text">![Foo](catroomguardian.JPG)</a>  | <a href="http://google.com/" rel="some text">![Foo](catroomguardian.JPG)</a>
 
 ## welcome
