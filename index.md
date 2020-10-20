@@ -1,63 +1,11 @@
+
+<center>Centered text</center>
 <div style="text-align:center">
   <a href="http://google.com/" rel="some text">
-    <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" rel="roll">![Foo](catroomguardian.JPG)
+    <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" rel="roll"> <img src="catroomguardian.JPG" alt="drawing" width="20" height="20"/>
   </a>
     Hi, I am a cat.
 </div>
 
-<table><tr>
-<td><a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" rel="roll">![Foo](fb_index.png) </td> | <td> <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" rel="roll">![Foo](insta_index.png) </td>
-</tr></table>
-
-## welcome
-
-You can use the [editor on GitHub](https://github.com/AdrianPopa1909/AdrianPopa1909.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](579038_252340704942690_1104975101_n.jpg)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AdrianPopa1909/AdrianPopa1909.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# HI, I am a cat
+<a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" rel="b"> <img src="insta_index.png" alt="drawing" width="20" height="20"/> </a> | <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" rel="a"> <img src="fb_index.png" alt="drawing" width="20" height="20"/> </a> 
