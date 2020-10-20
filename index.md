@@ -1,10 +1,11 @@
-// <div style="text-align:center"><img src="catroomguardian.JPG" /></div>
-
-<a href="http://google.com/" rel="some text">![Foo](catroomguardian.JPG)</a>  | <a href="http://google.com/" rel="some text">![Foo](catroomguardian.JPG)</a>
+<div style="text-align:center">
+  <a href="http://google.com/" rel="some text">
+    ![Foo](catroomguardian.JPG)</a>  | <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" rel="roll">![Foo](catroomguardian.JPG)
+  </a>
+</div>
 
 <table><tr>
-<td> <img src="Nordic_trails.jpg" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="Nordic_trails.jpg" alt="Drawing" style="width: 250px;"/> </td>
+<td><a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" rel="roll">![Foo](catroomguardian.JPG) </td> | <td> <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" rel="roll">![Foo](catroomguardian.JPG) </td>
 </tr></table>
 
 ## welcome
