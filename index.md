@@ -2,7 +2,7 @@
 <center>Centered text</center>
 <div style="text-align:center">
   <a href="http://google.com/" rel="some text">
-    <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" rel="roll"> <img src="catroomguardian.JPG" alt="drawing" width="20" height="20"/>
+    <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" rel="roll"> <img src="catroomguardian.JPG" alt="drawing" width="220" height="220"/>
   </a>
     Hi, I am a cat.
 </div>
