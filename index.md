@@ -1,11 +1,12 @@
 <div style="text-align:center">
   <a href="http://google.com/" rel="some text">
-    ![Foo](catroomguardian.JPG)</a>  | <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" rel="roll">![Foo](catroomguardian.JPG)
+    <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" rel="roll">![Foo](catroomguardian.JPG)
   </a>
+    Hi, I am a cat.
 </div>
 
 <table><tr>
-<td><a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" rel="roll">![Foo](catroomguardian.JPG) </td> | <td> <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" rel="roll">![Foo](catroomguardian.JPG) </td>
+<td><a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" rel="roll">![Foo](fb_index.png) </td> | <td> <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" rel="roll">![Foo](insta_index.png) </td>
 </tr></table>
 
 ## welcome
